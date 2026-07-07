@@ -1,0 +1,9 @@
+site/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+
+# local-only tooling (contains secret detection patterns — do NOT publish)
+leak-scan.sh
+*.tar.gz
