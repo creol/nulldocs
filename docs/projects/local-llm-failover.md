@@ -1,5 +1,7 @@
 # Local LLM Failover
 
+*Last updated: 2026-07-08*
+
 Giving a self-hosted AI agent a **local LLM backstop** — automatic failover when the
 primary cloud model is unavailable, plus on-demand use to save API costs.
 
